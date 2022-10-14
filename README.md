@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Memeis
+- 👋 Hi, I’m @vchepurnyi
 - 👀 I’m interested in programming, music and games.
 - 🌱 I’m currently learning Python language
 <!---
